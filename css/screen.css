@@ -198,16 +198,22 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  
 }
 
 label {
   display: block;
 }
 
+
+/* ===== LAYOUT STYLES ====== */
 div.a {
   text-align: center;
 }
-/* ===== LAYOUT STYLES ====== */
+html {
+  font-family: "Times New Roman", Times, serif;
+  background: #8e8ea3;
+  font-size: 32px;
 
 
 /* ===== STATE STYLES ======= */
