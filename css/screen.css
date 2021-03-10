@@ -211,7 +211,7 @@ div.a {
   text-align: center;
    font-family: "Times New Roman", Times, serif;
   background: #8e8ea3;
-  font-size: 32px;
+  font-size: 16px;
 }
 
 h1 { background: #d9d9d9;
@@ -222,6 +222,6 @@ p {background: #b3b3b3;
   color: #e6e6e6;
 }
 
-ol {font-family: 'Kaushan Script', cursive;
+ol {font-family: "Brush Script MT", Brush, cursive;
 }
 /* ===== STATE STYLES ======= */
