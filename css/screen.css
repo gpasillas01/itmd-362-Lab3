@@ -80,7 +80,9 @@ button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
 [type="submit"]:-moz-focusring {
-  outline: 1px dotted ButtonText;
+  padding: 30px 60px;
+  font-size: 20px;
+  cursor: pointer;
 }
 
 /**
